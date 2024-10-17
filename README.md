@@ -10,6 +10,8 @@ Key Object Detection: Unifying Salient and Camouflaged Object Detection into One
 * Torchvision 0.10.0 <br>
 * Cuda 11.1 <br>
 
+## Overall Framework
+![alt text](./images/image-3.png)
 
 ## Results
 1. Performance comparison with benchmark SOD models. The best scores were marked red, followed by green and blue.
